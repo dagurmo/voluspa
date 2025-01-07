@@ -1,7 +1,7 @@
 # voluspa
 A small demonstration of Go for "Concurrent and Distributed Programming" at Reykjavik University.
 
-J.R.R. Tolkien took inspiration from the Voluspa in naming the dwarves and Gandalf in The Hobbit.
+J.R.R. Tolkien took inspiration from the Völuspá in naming the dwarves and Gandalf in The Hobbit.
 Explore the effort it takes to test a concurrent program—the file voluspa.go at
 https://github.com/mkyas/voluspa is a small program that starts a go routine for each name in the list
 and prints it.
