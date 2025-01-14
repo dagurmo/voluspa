@@ -19,6 +19,6 @@ Since the test file is written in the python language you can simply press "play
 # Specification 
 
 The test program should verify the following 
-- Format of output lines
+- Correct format of output lines
 - Correct number of dwarfs
 - Correct dwarf names
