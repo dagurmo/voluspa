@@ -1,4 +1,4 @@
-## voluspa
+## Voluspa
 A small demonstration of Go for "Concurrent and Distributed Programming" at Reykjavik University.
 
 J.R.R. Tolkien took inspiration from the Völuspá in naming the dwarves and Gandalf in The Hobbit.
